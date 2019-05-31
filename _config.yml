@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    zerocchi:
       name:           Zerocchi
       site:           https://blog.lyrae.us
       avatar:         /assets/images/avatar1.jpg
@@ -35,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: zerocchi
       avatar: /assets/images/avatar1.jpg
       
   # all pages
