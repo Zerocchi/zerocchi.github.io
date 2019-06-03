@@ -77,13 +77,12 @@ figure figcaption {
 .note {
   display: block;
   background-color: #FFFF66;
-  border-color: #ffffe0;
   color: #333333;
   font-size: 70%;
   padding: 5px 5px 5px 5px;
   margin-top: 15px;
   margin-bottom: 15px;
-  border: 1px solid rgba(0, 0, 0, .2);
+  border: 1px solid #ffffe0;
   border-radius: 3px;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
