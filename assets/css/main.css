@@ -65,12 +65,10 @@ article, aside, footer, header, hgroup, main, nav, section {
 figure {
   display: inline-block;
 }
-figure img {
-    vertical-align: top;
-}
+
 figure figcaption {
-    text-align: center;
-    font-size: 14px;
+  text-align: center;
+  font-size: 14px;
 }
 
 .note {
