@@ -3,7 +3,7 @@ layout: post
 title:  "Waiting for the Summer"
 author: zerocchi
 categories: [ Astronomy ]
-image: assets/images/waiting-summer/intro.jpeg
+image: assets/images/featured/waiting-summer.jpeg
 ---
 
 I’m one of the people who are eagerly waiting for summer to come. Why, especially when I live in the tropical rain-forest area that I can feel the summer the whole year, you ask? Well I have my own reason. The reason is summer night sky.
@@ -15,14 +15,14 @@ Living in the equator and tropical rain-forest region, not everyday you are bles
 What’s so interesting about summer (or winter, let’s call it summer for the sake of simplicity) night sky is you can see a lot of recognizable constellations and bright stars as well as deep sky objects such as nebulae and star clusters. Ask any casual sky gazers whether they can identify or at least notice this star pattern during summer night.
 
 <figure>
-  <img src="/assets/images/waiting-summer/1.png" alt=""/>
+  <img src="/assets/images/posts/waiting-summer/1.png" alt=""/>
   <figcaption>Late November around 10 PM, the constellation started to rise from the horizon. (Source: Stellarium)</figcaption>
 </figure>
 
 Chance are, they get the name correct if they remember what they have learned in school before. Orion the Hunter is easily the most recognizable and noticeable constellation among other constellations out there. During summer, you will see this beautiful constellation as early as 7 pm depending on the night [as the stars rise 4 minutes earlier each day](http://oneminuteastronomer.com/9911/how-the-sky-moves/). For instance, at 8 pm Orion is seen to rise just above the horizon during mid-December but it already reached the [zenith](http://www.merriam-webster.com/dictionary/zenith) during late February at the same time. From this constellation alone you can see two bright stars, namely Betelgeuse and Rigel. At the center, you can see the straight line called Orion Belt. Below the belt you will notice a curved patchy line as the Hunter hanging his sword there. Grab a binocular (or telescope, or stand in a dark enough place without any light pollution) and try to focus at the center of Orion’s Sword. What you see depending on the equipment is something like this.
 
 <figure>
-  <img src="/assets/images/waiting-summer/2.jpeg" alt=""/>
+  <img src="/assets/images/posts/waiting-summer/2.jpeg" alt=""/>
   <figcaption>Orion Nebula (M42) in the constellation Orion (Source: Eric Teske astronomy blog)</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ This patch is called Orion Nebula. Orion Nebula is one of the brightest [nebula]
 We are just talking about one constellation in the summer sky. Orion can be used to hop to another constellations and asterisms as well, make it very useful especially for budding stargazers to learn and appreciate the diversity beneath the heaven. For instance, you can follow the line of the Belt of Orion from left to right until you found another bright star called Aldebaran. Aldebaran is part of constellation Taurus the Bull. From there, you can continue following the line until you see a small cluster.
 
 <figure>
-  <img src="/assets/images/waiting-summer/3.png" alt=""/>
+  <img src="/assets/images/posts/waiting-summer/3.png" alt=""/>
   <figcaption>Visual guide on how to find the Pleiades (M45) by star-hopping</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Hello, Universe."
 author: zerocchi
 categories: [ Astronomy, Fiction ]
-image: https://cdn-images-1.medium.com/max/2560/1*-6-bpNKLfBuAL1SRseP7PQ.jpeg
+image: assets/images/featured/hello-universe.jpeg
 ---
 
 > “If people sat outside and looked at the stars each night, I’ll bet they’d live a lot differently.” — Bill Watterson
