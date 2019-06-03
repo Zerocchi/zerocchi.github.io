@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello, Universe."
-author: Zerocchi
+author: zerocchi
 categories: [ Astronomy, Fiction ]
 image: https://cdn-images-1.medium.com/max/2560/1*-6-bpNKLfBuAL1SRseP7PQ.jpeg
 ---
