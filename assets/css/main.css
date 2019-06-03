@@ -64,8 +64,7 @@ article, aside, footer, header, hgroup, main, nav, section {
 
 figure {
   display: inline-block;
-  border: 1px dotted gray;
-  margin: 20px;
+  margin: 5px;
 }
 figure img {
     vertical-align: top;
