@@ -64,7 +64,6 @@ article, aside, footer, header, hgroup, main, nav, section {
 
 figure {
   display: inline-block;
-  margin: 3px;
 }
 figure img {
     vertical-align: top;
@@ -78,14 +77,11 @@ figure figcaption {
   display: inline-block;
   background-color: #FFFF66;
   color: #333333;
-  font-size: 80%;
   padding: 5px 5px 5px 5px;
-  margin-top: 3px;
-  margin-bottom: 3px;
   border: 1px solid #ffffe0;
-  border-radius: 3px;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
+  border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
 }
 
 body {
