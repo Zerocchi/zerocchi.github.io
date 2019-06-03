@@ -59,13 +59,20 @@ html {
 @-ms-viewport {
   width: device-width; }
 
-article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+article, aside, footer, header, hgroup, main, nav, section {
   display: block; }
 
-figcaption {
-  display: block; 
-  text-align: center;
-  font-size: 9px;
+  figure {
+    display: inline-block;
+    border: 1px dotted gray;
+    margin: 20px;
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
 }
 
 body {
