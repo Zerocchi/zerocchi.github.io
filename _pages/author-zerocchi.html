@@ -17,7 +17,7 @@ permalink: "/author-zerocchi.html"
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"author","Zerocchi" %}
+            {% assign posts = site.posts | where:"author","zerocchi" %}
             {% for post in posts %}
             {% include main-loop-card.html %}
             {% endfor %}
