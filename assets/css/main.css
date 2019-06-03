@@ -64,7 +64,7 @@ article, aside, footer, header, hgroup, main, nav, section {
 
 figure {
   display: inline-block;
-  margin: 5px;
+  margin: 3px;
 }
 figure img {
     vertical-align: top;
@@ -75,7 +75,7 @@ figure figcaption {
 }
 
 .note {
-  display: block;
+  display: inline-block;
   background-color: #FFFF66;
   color: #333333;
   font-size: 80%;
