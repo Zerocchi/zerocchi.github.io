@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
+title:  "Waiting for the Summer"
+author: zerocchi
 categories: [ Astronomy ]
 image: assets/images/waiting-summer/intro.jpeg
 ---
