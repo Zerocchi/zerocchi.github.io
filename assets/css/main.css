@@ -78,10 +78,10 @@ figure figcaption {
   display: block;
   background-color: #FFFF66;
   color: #333333;
-  font-size: 70%;
+  font-size: 80%;
   padding: 5px 5px 5px 5px;
-  margin-top: 15px;
-  margin-bottom: 15px;
+  margin-top: 3px;
+  margin-bottom: 3px;
   border: 1px solid #ffffe0;
   border-radius: 3px;
   -moz-border-radius: 3px;
