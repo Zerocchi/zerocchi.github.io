@@ -62,6 +62,12 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
+figcaption {
+  display: block; 
+  text-align: center;
+  font-size: 9px;
+}
+
 body {
   margin: 0;
   font-family: "Segoe UI", "Helvetica Neue", "Arial";
