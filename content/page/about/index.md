@@ -3,20 +3,22 @@ title: "About"
 date: 2026-01-17
 slug: "about"
 menu:
-    main:
-        weight: 4
+  main:
+    weight: 4
+    params:
+      icon: info
 ---
 
 Software developer. A person with various interests.
 
-**Japanese entertainment**
+### Japanese entertainment
 
 - Gaki no Tsukai (and whole sort of variety program)
 - Vocaloid
 - J-Pop / Anison
 - Love Live - μ's
 
-**Games**
+### Games
 
 - Dota 2
 - Honkai: Star Rail
@@ -26,13 +28,13 @@ Software developer. A person with various interests.
 - Civilization series
 - Football Manager
 
-**Sports**
+### Sports
 
 - English Premier League - Manchester United
 - Sepaktakraw
 - Any big multisport tournaments (i.e Olympics)
 
-**Creatives**
+### Creatives
 
 - Programming
 - Music Composing / Production
@@ -41,7 +43,7 @@ Software developer. A person with various interests.
 - Retro Gamedev (Pico-8)
 - Pixel Art
 
-**Others**
+### Others
 
 - Various kind of music
 - Small indie web (forums/small sites/IRC/etc.)
