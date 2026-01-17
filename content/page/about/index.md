@@ -6,7 +6,7 @@ menu:
   main:
     weight: 4
     params:
-      icon: info
+      icon: user
 ---
 
 Software developer. A person with various interests.
