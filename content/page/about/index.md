@@ -1,11 +1,10 @@
 ---
 title: "About"
 date: 2026-01-17
-layout: "about"
 slug: "about"
 menu:
     main:
-        weight: 1
+        weight: 4
 ---
 
 Software developer. A person with various interests.
