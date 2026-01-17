@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "blog.zerocchi.com"
+baseurl = "https://blog.zerocchi.com"
 languageCode = "en-us"
 title = "Zerocchi Blog"
 
