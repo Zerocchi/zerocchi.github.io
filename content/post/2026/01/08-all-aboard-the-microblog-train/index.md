@@ -3,7 +3,7 @@ layout: post
 title: "All aboard the (micro)blog train"
 description: "This will be the year we escape from the evil algo"
 date: 2026-01-08T13:07:03+0800
-lastmod: 2026-01-15T06:43:45+0800
+lastmod: 2026-01-18T09:33:45+0800
 image: 7bf1cad5dd.jpg
 type: post
 categories:
@@ -42,4 +42,4 @@ This year, I'm trying to reduce as much as possible my screen time on the platfo
 
 YouTube and Discord are the only platforms I can't move from yet. There are no solid replacements for YouTube so far, but you can always search videos with intent instead of depending on algorithms to feed content to you. For Discord, as much as I want to use something like IRC, it's probably tricky to ask my buddies to move away as Discord is probably the better IRC. But, I believe the old web will stage a comeback so long the corporations continue to deteriorate their products and offerings.
 
-> EDIT: I have since moved from micro.blog to somewhere else in order to find a place that fit for me. The general consensus is I will be still blogging in the form of freestyle and sometimes microblogging.
+> EDIT: I have since moved from micro.blog to somewhere else in order to find a place that fit for me. The general consensus is I will be still blogging in the form of freestyle and sometimes microblogging. I will probably repurpose my micro.blog to something else.
