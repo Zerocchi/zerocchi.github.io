@@ -13,8 +13,8 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "🧑‍💻"
+subtitle = "Colletions of rant, takes, and journeys."
 
 [sidebar.avatar]
 enabled = true
@@ -77,7 +77,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "cusdis"
 
 [comments.disqusjs]
 shortname = ""
@@ -128,13 +128,13 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = ""
-repoID = ""
-category = ""
-categoryID = ""
-mapping = ""
-lightTheme = ""
-darkTheme = ""
+repo = "Zerocchi/zerocchi.github.io"
+repoID = "R_kgDOQ7c6Og"
+category = "Announcements"
+categoryID = "DIC_kwDOQ7c6Os4C1FtN"
+mapping = "pathname"
+lightTheme = "false"
+darkTheme = "true"
 reactionsEnabled = 1
 emitMetadata = 0
 
@@ -146,5 +146,5 @@ clientID = ""
 clientSecret = ""
 
 [comments.cusdis]
-host = ""
-id = ""
+host = "https://cusdis.com"
+id = "411cb6c4-1618-42b2-be55-af479a48bb27"

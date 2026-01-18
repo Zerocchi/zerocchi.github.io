@@ -1,19 +1,18 @@
 ---
 layout: post
 title: "From zero to IRC server in just a day"
+description: "What hyperfixating over something can truly reward"
 date: 2026-01-15T06:48:31+0800
 lastmod: 2026-01-16T20:27:01+0800
 type: post
+image: 6ce9024d41.png
 categories:
   - "Posts"
   - "Tech"
   - "Indie Web"
-thumbnail: https://s3.amazonaws.com/micro.blog/thumbnails/2026/01/16/blog.zerocchi.com/78d3f08ea4ca0ae1304c422ba7a3e4ef.png
 opengraph:
   title: "Zerocchi Blog - From zero to IRC server in just a day"
   image: https://s3.amazonaws.com/micro.blog/opengraph/2026/01/14/5710088.png
-images:
-  - https://cdn.uploads.micro.blog/285193/2026/6ce9024d41.png
 photos:
 photos_with_metadata:
 url: "/2026/01/15/064831.html"
@@ -38,4 +37,4 @@ At the end of the day, after wrestling with all the configurations and seemingly
 
 Where is the server, you ask? As this is for my own amusement, I will just keep it to myself and several friends for now. It's public and part of a project I was in, but one needs to know the address to enter and I don't think anyone else interested at this point of time. Maybe one day when the project become bigger, people will find out and join the server by themselves. That is if the server is still available at that point.
 
-![IRC Client](6ce9024d41.png)
+![The so-called small IRC server](6ce9024d41.png)
