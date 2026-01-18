@@ -4,7 +4,7 @@ date: 2026-01-17
 slug: "about"
 menu:
   main:
-    weight: 4
+    weight: 2
     params:
       icon: user
 ---
